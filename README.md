@@ -10,8 +10,9 @@
  joblib == 1.2.0  
  csv  
 ## Training
- 1. 執行`109612041_Final_train.ipynb`  
- 2. `109612041_Final_train.ipynb`將會產生`my_model`在同一個資料夾  
+ 1. 將`train.csv`, `test.csv`放在主要的資料夾下命名為`tabular-playground-series-aug-2022`的資料夾(或是你可以在)`109612041_Final_train.ipynb`中修改檔案路徑  
+ 2. 執行`109612041_Final_train.ipynb`  
+ 3. `109612041_Final_train.ipynb`將會產生`my_model`在同一個資料夾  
 ## Evaluation
  1. 執行`109612041_Final_inference.ipynb`  
  2. `109612041_Final_inference.ipynb`將會產生預測結果的csv檔`109612041.csv`  
