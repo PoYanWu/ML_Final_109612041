@@ -14,8 +14,9 @@
  2. 執行`109612041_Final_train.ipynb`  
  3. `109612041_Final_train.ipynb`將會產生`my_model`在同一個資料夾  
 ## Evaluation
- 1. 執行`109612041_Final_inference.ipynb`  
- 2. `109612041_Final_inference.ipynb`將會產生預測結果的csv檔`109612041.csv`  
+ 1. 將model放在與`109612041_Final_inference.ipynb`同一個資料夾下
+ 2. 執行`109612041_Final_inference.ipynb`  
+ 3. `109612041_Final_inference.ipynb`將會產生預測結果的csv檔`109612041.csv`  
 ## Pre-trained Models 
 [ `pre-trained model`](https://drive.google.com/file/d/1FYc74MSekEqXtqDeYGk58zxb8uQRCBTe/view?usp=share_link)  
 ## Result
