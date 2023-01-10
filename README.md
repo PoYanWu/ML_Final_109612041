@@ -21,4 +21,4 @@
 ![109612041_Final](https://user-images.githubusercontent.com/103819868/211599424-db164f82-90cc-4689-a99f-cb1ff02bb17c.jpg)
 | Model name         | Private Accuracy| Public Accuracy|
 | ------------------ |---------------- | -------------- |
-| My awesome model   |     0.59031     |     0.58296    |
+|      my_model      |     0.59031     |     0.58296    |
